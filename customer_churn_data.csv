@@ -1,0 +1,51 @@
+customer_id,gender,tenure_months,contract_type,internet_service,monthly_charges,total_charges,customer_service_calls,churn
+1001,Female,2,Month-to-Month,Fiber Optic,85.50,171.00,4,Yes
+1002,Male,34,One-Year,DSL,55.20,1876.80,1,No
+1003,Male,1,Month-to-Month,Fiber Optic,92.00,92.00,5,Yes
+1004,Female,45,Two-Year,DSL,62.10,2794.50,0,No
+1005,Female,8,Month-to-Month,Fiber Optic,78.90,631.20,3,Yes
+1006,Male,22,One-Year,No,20.50,451.00,1,No
+1007,Female,3,Month-to-Month,DSL,45.00,135.00,4,Yes
+1008,Male,60,Two-Year,Fiber Optic,105.00,6300.00,1,No
+1009,Female,12,Month-to-Month,Fiber Optic,89.50,1074.00,2,No
+1010,Male,5,Month-to-Month,DSL,50.10,250.50,4,Yes
+1011,Female,48,Two-Year,Fiber Optic,99.50,4776.00,0,No
+1012,Male,15,One-Year,DSL,58.00,870.00,2,No
+1013,Female,4,Month-to-Month,Fiber Optic,94.20,376.80,5,Yes
+1014,Male,30,One-Year,Fiber Optic,88.00,2640.00,1,No
+1015,Female,70,Two-Year,DSL,65.00,4550.00,1,No
+1016,Male,9,Month-to-Month,DSL,48.50,436.50,3,Yes
+1017,Female,25,One-Year,Fiber Optic,91.00,2275.00,1,No
+1018,Male,2,Month-to-Month,Fiber Optic,82.00,164.00,4,Yes
+1019,Female,52,Two-Year,No,25.00,1300.00,0,No
+1020,Male,18,One-Year,DSL,52.00,936.00,2,No
+1021,Female,1,Month-to-Month,Fiber Optic,89.00,89.00,4,Yes
+1022,Male,36,Two-Year,DSL,60.50,2178.00,0,No
+1023,Female,6,Month-to-Month,Fiber Optic,95.00,570.00,5,Yes
+1024,Male,40,One-Year,Fiber Optic,85.00,3400.00,1,No
+1025,Female,65,Two-Year,Fiber Optic,110.00,7150.00,1,No
+1026,Male,3,Month-to-Month,DSL,40.00,120.00,3,Yes
+1027,Female,14,One-Year,DSL,55.00,770.00,2,No
+1028,Male,7,Month-to-Month,Fiber Optic,87.00,609.00,4,Yes
+1029,Female,58,Two-Year,No,19.50,1131.00,0,No
+1030,Male,20,One-Year,Fiber Optic,92.50,1850.00,1,No
+1031,Female,2,Month-to-Month,DSL,42.00,84.00,4,Yes
+1032,Male,42,Two-Year,DSL,58.00,2436.00,0,No
+1033,Female,11,Month-to-Month,Fiber Optic,88.50,973.50,3,Yes
+1034,Male,28,One-Year,Fiber Optic,90.00,2520.00,1,No
+1035,Female,68,Two-Year,Fiber Optic,108.00,7344.00,1,No
+1036,Male,4,Month-to-Month,DSL,46.00,184.00,5,Yes
+1037,Female,16,One-Year,DSL,54.00,864.00,1,No
+1038,Male,8,Month-to-Month,Fiber Optic,96.00,768.00,4,Yes
+1039,Female,55,Two-Year,No,21.00,1155.00,0,No
+1040,Male,24,One-Year,Fiber Optic,89.00,2136.00,2,No
+1041,Female,1,Month-to-Month,Fiber Optic,84.00,84.00,4,Yes
+1042,Male,38,Two-Year,DSL,63.00,2394.00,0,No
+1043,Female,5,Month-to-Month,DSL,49.00,245.00,3,Yes
+1044,Male,32,One-Year,Fiber Optic,86.00,2752.00,1,No
+1045,Female,72,Two-Year,Fiber Optic,112.00,8064.00,0,No
+1046,Male,6,Month-to-Month,Fiber Optic,91.50,549.00,4,Yes
+1047,Female,19,One-Year,DSL,56.00,1064.00,1,No
+1048,Male,10,Month-to-Month,Fiber Optic,93.00,930.00,3,Yes
+1049,Female,62,Two-Year,No,22.00,1364.00,0,No
+1050,Male,26,One-Year,Fiber Optic,87.50,2275.00,2,No
