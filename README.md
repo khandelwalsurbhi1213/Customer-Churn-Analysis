@@ -76,13 +76,7 @@ python -m streamlit run app.py
 
 ---
 
-## 📄 Resume-Ready Project Summary (ATS Optimized)
 
-**Customer Churn & Retention Analytics Dashboard** | *Python, Streamlit, Pandas, Plotly*
-- Engineered an interactive Exploratory Data Analysis (EDA) dashboard in Streamlit to identify customer attrition patterns across demographic, contract, and billing variables.
-- Tracked core business KPIs including Churn Rate (%), Recurring Revenue Loss, and Retention Ratios with dynamic multi-attribute filtering.
-- Uncovered that month-to-month contracts drove 80%+ of total churn and flagged 3+ support calls as a 90% churn predictor, delivering actionable customer retention strategies.
-- Visualized behavioral distribution patterns using interactive Plotly charts and implemented 1-click CSV data export capabilities for business stakeholders.
 
 ---
 
